@@ -1,5 +1,4 @@
-from doubly_linked_list.doubly_linked_list import DoublyLinkedList
-
+from doubly_linked_list import DoublyLinkedList
 
 class LRUCache:
     """
