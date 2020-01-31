@@ -143,7 +143,7 @@ class DoublyLinkedList:
             node.delete()
         else:
             node.delete()
-        
+
     """Returns the highest value currently in the list"""
     def get_max(self):
         if not self.head:
